@@ -1,8 +1,9 @@
 #Database Management
+
   Projects to refresh data management skills in realtional database - mysql and NOSQL -mongodb 
 
 
-'Database Management Mysql':
+#'Database Management Mysql':
 
   -Designed an ER Model
   
@@ -10,7 +11,7 @@
   
   -Query results
 
-'Database Management Mongo DB':
+#'Database Management Mongo DB':
 
   -Load data into mongodb
   
