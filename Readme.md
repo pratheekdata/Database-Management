@@ -3,10 +3,15 @@
 
 
 'Database Management Mysql':
+
   -Designed an ER Model
+  
   -Load data into Mysql Database
+  
   -Query results
 
 'Database Management Mongo DB':
+
   -Load data into mongodb
+  
   -Extract metrics 
